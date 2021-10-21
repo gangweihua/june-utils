@@ -8,6 +8,9 @@
   },
   "author": "",
   "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/gangweihua"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:gangweihua/june-utils.git"
