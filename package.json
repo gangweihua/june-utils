@@ -1,6 +1,6 @@
 {
   "name": "june-utils",
-  "version": "0.2.10",
+  "version": "0.2.7",
   "description": "工具类",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,11 @@
   },
   "author": "",
   "license": "ISC",
+  "publishConfig": {
+    "registry": "https://github.com/gangweihua"
+  },
   "repository": {
     "type": "git",
-    "url": "git@gitee.com:gangweihua/june-utils.git"
+    "url": "git@github.com:gangweihua/june-utils.git"
   }
 }
