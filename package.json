@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/gangweihua"
+    "registry": "https://github.com/gangweihua"
   },
   "repository": {
     "type": "git",
