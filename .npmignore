@@ -1,5 +1,6 @@
 .idea/
-.npmrc1
+.npmrc
+.npmrc.back
 .gitignore
 node_modules/
 lib/
