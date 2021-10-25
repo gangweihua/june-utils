@@ -1,6 +1,6 @@
 {
   "name": "june-utils",
-  "version": "0.2.15",
+  "version": "0.2.16",
   "description": "工具类",
   "main": "index.js",
   "scripts": {
